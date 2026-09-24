@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cidade": "Campinas",
+        "tipo_evento": "Onda de calor",
+        "temperatura_maxima": 38.7,
+        "data": "2026-09-23",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 2,
+        "cidade": "Amparo",
+        "tipo_evento": "Onda de calor",
+        "temperatura_maxima": 38.9,
+        "data": "2026-09-23",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 3,
+        "cidade": "Amparo",
+        "tipo_evento": "Onda de frio",
+        "temperatura_maxima": 1.6,
+        "data": "2024-05-30",
+        "nivel_impacto": "Baixo"
+    },
+    {
+        "id": 4,
+        "cidade": "Campos do Jordão",
+        "tipo_evento": "Onda de frio",
+        "temperatura_maxima": 0.8,
+        "data": "2024-05-02",
+        "nivel_impacto": "Baixo"
+    },
+    {
+        "id": 5,
+        "cidade": "Florianópolis",
+        "tipo_evento": "Onda de calor",
+        "temperatura_maxima": 36.0,
+        "data": "2026-08-32",
+        "nivel_impacto": "Alto"
+    }
+]
